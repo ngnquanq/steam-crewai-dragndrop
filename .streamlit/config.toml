@@ -3,7 +3,7 @@ gatherUsageStats = false
 
 [theme]
 primaryColor="#f05252"
-backgroundColor="#111111"
-secondaryBackgroundColor="#222222"
-textColor="#dddddd"
-base = "dark"
+backgroundColor="#ffffff"  # Changed to light background color
+secondaryBackgroundColor="#f0f0f0"  # Changed to light secondary background color
+textColor="#000000"  # Changed to dark text color for better contrast
+base = "light"
